@@ -28,7 +28,7 @@ services:
 
     # define the environment variables
     environment:
-      DB_URL: mongodb+srv://mongodb_databases:HgTHRXOyOyjoMM8R@cluster0.hnxpqnw.mongodb.net/docker-course
+      DB_URL: mongodb+srv://
 
   # we're using MongoDB atlas so we don't need to run a local instance of MongoDB
   # but if you want to run a local instance, you can do it this way
